@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm YASHAS PS</h1>
 <h3 align="center">An Aspiring Data Scientist</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashas-pissay&label=Profile%20views&color=0e75b6&style=flat" alt="yashas-pissay" /> </p>
 
 - 🔭 I’m currently working as **Associate IT Consultant at ITC Infotech ltd.**
@@ -11,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [here](here)
 
-- ⚡ Fun fact **I'm Extrovert😅**
+- ⚡ Fun fact **I'm Extrovert, Lazy but Smart😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,6 +24,7 @@
     <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"> </a>
     <a href="https://jupyter.org/" target="_blank"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> </a>
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> </a>
     <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/> </a> 
     <a href="https://plotly.com/" target="_blank"> <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/> </a>
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> </a>
@@ -37,8 +36,9 @@
     <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashas-pissay&show_icons=true&locale=en&layout=compact" alt="yashas-pissay" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashas-pissay&show_icons=true&locale=en" alt="yashas-pissay" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashas-pissay&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="yashas-pissay" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashas-pissay&" alt="yashas-pissay" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashas-pissay&theme=dark&hide_border=false" alt="yashas-pissay" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashas-pissay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="yashas-pissay" /></p>
