@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm YASHAS PS</h1>
 <h3 align="center">An Aspiring Data Scientist</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fhacktiv8-code-error-laptop-Ll22OhMLAlVDb8UQWe&psig=AOvVaw003YUddzzNWEZJkG4bsX73&ust=1680100708797000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNin_4Pt_v0CFQAAAAAdAAAAABAJ">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashas-pissay&label=Profile%20views&color=0e75b6&style=flat" alt="yashas-pissay" /> </p>
 
@@ -10,10 +10,6 @@
 - 🌱 I’m currently learning as well as working as **Python, Stats, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [here](here)
-
-- 📫 How to reach me **yashasyash44@gmail.com**
-
-- 📄 Know about my experiences [here](here)
 
 - ⚡ Fun fact **I'm Extrovert😅**
 
