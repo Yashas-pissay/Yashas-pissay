@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **Associate IT Consultant at ITC Infotech ltd.**
 
-- 🌱 I’m currently learning as well as working on **Python, Stats, Machine Learning**
+- 🌱 I’m currently learning as well as working on **PowerBI, Advance Excel, MYSQL, Python, Stats, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [here](here)
 
