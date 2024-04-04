@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning as well as working on **PowerBI, Advance Excel, MYSQL, Python, Stats, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [here](here)
+- 👨‍💻 All of my projects are available at here.
 
 - ⚡ Fun fact **I'm Extrovert, Lazy but Smart😅**
 
