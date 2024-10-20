@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **Data Analyst at ITC Infotech ltd.**
 
-- 🌱 I’m currently Working on **PowerBI, Advance Excel, MYSQL, Python, Stats, Machine Learning**
+- 🌱 I’m currently working on **PowerBI, Advance Excel, MYSQL, Python, Stats, Machine Learning**
 
 - 👨‍💻 All of my projects are available at here.
 
